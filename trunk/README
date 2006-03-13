@@ -1,0 +1,6 @@
+Required Libraries
+==================
+
+ * Boost   - tested with 1.33.1
+ * libCurl - tested with 7.15.1
+ * VLC     - tested with 0.8.2
