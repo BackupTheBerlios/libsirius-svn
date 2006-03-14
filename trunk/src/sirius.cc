@@ -325,6 +325,7 @@ bool Sirius::populate_channels()
     return true;
 }
 
+/*
 int main(int argc, char **argv)
 {
     Sirius sirius;
@@ -380,3 +381,4 @@ int main(int argc, char **argv)
     return 0;
 }
 
+*/
